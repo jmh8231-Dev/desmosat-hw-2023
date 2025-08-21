@@ -160,6 +160,5 @@ desmosat-hw-2023/
 ├─ landing_module/       # 낙하/착륙(서보/스테퍼/ToF/카메라)
 ├─ ground_control/       # 지상국 MCU + RF + USB
 ├─ docs/
-│  ├─ images/            # README 이미지(.png/.jpg)
-│  └─ schematics/        # (옵션) 회로 캡처 원본
-└─ fabrication/          # Gerber/Drill/PnP/Assembly 자료
+|    ├─ images/          # README 이미지(.png)
+|─ 임무제안서             # 위성 임무 설명 문서
