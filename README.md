@@ -37,7 +37,7 @@ DesmoSAT은 **모듈 교체만으로 임무를 바꿀 수 있게 설계된 캔�
 | **Ground Control** | 지상국 수신/표시 | STM32F1, RF(E32-433T30D), FT232RL(USB-UART) |
 
 <!-- 블록 다이어그램(상위 시트) 스크린샷 -->
-
+![Block Diagram](docs/images/block-diagram.png)
 ---
 
 ## 데모 임무 A: 화산 위험 징후 탐지
