@@ -13,6 +13,8 @@ DesmoSAT은 **모듈 교체만으로 임무를 바꿀 수 있게 설계된 캔�
 이 구조는 설계 변경 범위를 최소화해 **개발 기간을 단축**하고 **반복 제작 비용을 절감**하며, 현장 운용 중에도 유지보수와 확장을 쉽게 합니다.  
 데모 임무로는 **화산 위험 징후 탐지**(가스/분진, IR/VL, ToF 기반)를 구현했습니다.
 
+![DesmoSAT PCB](docs/images/pcb-3D-rander.png)
+
 ## 핵심 포인트
 - **모듈 스왑 기반 임무 전환**: 공통 코어는 유지, 임무 보드만 교체 → 빠른 재활용/확장  
 - **표준화된 인터페이스**: 전원·CAN·ST-Link 핀아웃 통일 → 설계/디버그 일관성 확보  
@@ -115,6 +117,7 @@ DesmoSAT은 **모듈 교체만으로 임무를 바꿀 수 있게 설계된 캔�
 ![Custom B](docs/images/custom-b.png)
 ![Landing](docs/images/landing.png)
 ![Ground Control](docs/images/ground-control.png)
+![DesmoSAT PCB Layout](docs/images/pcb-layout.png)
 
 ---
 
