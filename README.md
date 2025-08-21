@@ -1,6 +1,6 @@
 # DesmoSAT — Hardware (2023, KiCad)
 
-소형 위성(캔샛) 하드웨어 설계 저장소입니다. **KiCad 6/7** 기반으로 회로도/PCB, 제조 파일(Gerber), BOM을 포함합니다.
+소형 위성(캔샛) 하드웨어 설계 저장소입니다. **KiCad 8/9** 기반으로 회로도/PCB, 제조 파일(Gerber), BOM을 포함합니다.
 
 ## ✨ 주요 특징
 - 모듈 구조: Main MCU · Power · BMS · Navigation(GNSS/IMU) · Environment Sensors · Landing(서보/파이로) · Ground Control Center(지상국 인터페이스)
