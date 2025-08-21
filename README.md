@@ -119,4 +119,4 @@ desmosat-hw-2023/
 ├─ ground_control/       # 지상국 MCU + RF + USB
 ├─ docs/
 |    ├─ images/          # README 이미지(.png)
-|─ 임무제안서             # 위성 임무 설명 문서
+|─ 임무제안서             # 위성 임무설명 문서
