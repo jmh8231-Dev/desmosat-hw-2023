@@ -46,7 +46,7 @@ DesmoSAT은 하드웨어를 **모듈**로 나눠 비용을 낮추고 임무 확�
 
 <!-- Custom A 보드 사진(센서 라벨 붙여서) -->
 <!-- 파일: docs/images/custom-a-board.png -->
-![Custom A – Gas/PM Payload](docs/images/custom-a-board.png)
+![Custom A – Gas/PM Payload](docs/images/custom-a.png)
 
 ---
 
