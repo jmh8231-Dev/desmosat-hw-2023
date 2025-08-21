@@ -107,47 +107,6 @@ DesmoSAT은 **모듈 교체만으로 임무를 바꿀 수 있게 설계된 캔�
 
 ---
 
-## 회로도 이미지
-
-![Power](docs/images/power.png)
-![Battery & BMS](docs/images/battery-bms.png)
-![Main MCU](docs/images/main-mcu.png)
-![Custom A](docs/images/custom-a.png)
-![Custom B](docs/images/custom-b.png)
-![Landing](docs/images/landing.png)
-![Ground Control](docs/images/ground-control.png)
-![DesmoSAT PCB Layout](docs/images/pcb-layout.png)
-
----
-
-## 하드웨어 이미지 (실물 사진 업로드 후 노출)
-
-> 실물 보드/PCB 이미지를 준비하면 아래 **파일명 그대로** 올리면 됩니다.  
-> 올리는 즉시 README가 자동으로 해당 이미지를 표시합니다.
-
-<!-- 히어로 실물 합성 -->
-<!-- 올릴 파일: docs/images/hero-boards.png -->
-
-<!-- Common -->
-<!-- 올릴 파일: docs/images/common-top.png, docs/images/common-pcb.png -->
-
-<!-- Battery & BMS -->
-<!-- 올릴 파일: docs/images/bms-top.png, docs/images/bms-pcb.png -->
-
-<!-- Custom A (센서 라벨 강조판 권장) -->
-<!-- 올릴 파일: docs/images/custom-a-board.png, docs/images/custom-a-sensors-labeled.png -->
-
-<!-- Custom B -->
-<!-- 올릴 파일: docs/images/custom-b-top.png -->
-
-<!-- Landing -->
-<!-- 올릴 파일: docs/images/landing-top.png, docs/images/landing-pcb.png -->
-
-<!-- Ground Control -->
-<!-- 올릴 파일: docs/images/gcs-top.png -->
-
----
-
 ## 파일/폴더 구조
 
 ```text
