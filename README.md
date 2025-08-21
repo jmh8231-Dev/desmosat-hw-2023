@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# DesmoSAT 회로도 분석
-
 #### 1. 개요
 
 DesmoSAT 회로도는 Common Module, Ground Control Module, Custom/Landing Module, Power, ST-Link Converter 등으로 구성되어 있습니다. 각 모듈은 CAN 통신으로 연결되어 있습니다.
