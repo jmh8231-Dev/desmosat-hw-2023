@@ -5,7 +5,7 @@
 
 <!-- 히어로 이미지: 실제 보드 4장(공통, BMS, Custom A, Landing) 나란히 -->
 <!-- 파일: docs/images/hero-boards.jpg -->
-![DesmoSAT Boards](docs/images/hero-boards.jpg)
+![DesmoSAT Boards](docs/images/hero-boards.png)
 
 ## 개요
 
@@ -45,8 +45,8 @@ DesmoSAT은 하드웨어를 **모듈**로 나눠 비용을 낮추고 임무 확�
 - **지상국**: 실시간 그래프/지도화, **베이스라인 데이터 대비 변화량** 분석
 
 <!-- Custom A 보드 사진(센서 라벨 붙여서) -->
-<!-- 파일: docs/images/custom-a-board.jpg -->
-![Custom A – Gas/PM Payload](docs/images/custom-a-board.jpg)
+<!-- 파일: docs/images/custom-a-board.png -->
+![Custom A – Gas/PM Payload](docs/images/custom-a-board.png)
 
 ---
 
@@ -80,35 +80,35 @@ DesmoSAT은 하드웨어를 **모듈**로 나눠 비용을 낮추고 임무 확�
 ### Common Module
 <!-- 제품 사진(Top/Bottom), PCB 레이아웃(Top), 커넥터 라벨 이미지 -->
 <!-- files: docs/images/common-top.jpg, common-bot.jpg, common-pcb.png -->
-![Common – Assembled Top](docs/images/common-top.jpg)
+![Common – Assembled Top](docs/images/common-top.png)
 ![Common – PCB (Top)](docs/images/common-pcb.png)
 
 ### Battery & BMS
 <!-- 셀 전압 버퍼/INA219/게이팅 부분 확대, Solar/Charge 포트 클로즈업 -->
 <!-- files: docs/images/bms-top.jpg, bms-pcb.png, bms-detail-sense.jpg -->
-![BMS – Assembled](docs/images/bms-top.jpg)
+![BMS – Assembled](docs/images/bms-top.png)
 ![BMS – PCB](docs/images/bms-pcb.png)
 
 ### Custom A (Gas/PM)
 <!-- 센서 라벨(화살표/주석), 캘리브레이션 셋업 사진 -->
 <!-- files: docs/images/custom-a-top.jpg, custom-a-sensors-labeled.jpg -->
-![Custom A – Sensors](docs/images/custom-a-sensors-labeled.jpg)
+![Custom A – Sensors](docs/images/custom-a-sensors-labeled.png)
 
 ### Custom B (Radiation)
 <!-- GDK101 연결/실드 처리, 캘리브레이션 셋업 -->
 <!-- files: docs/images/custom-b-top.jpg -->
-![Custom B – Radiation Payload](docs/images/custom-b-top.jpg)
+![Custom B – Radiation Payload](docs/images/custom-b-top.png)
 
 ### Landing Module
 <!-- ToF/IR/VL 커넥터, 서보/스테퍼 드라이브 부분 강조 -->
 <!-- files: docs/images/landing-top.jpg, landing-pcb.png -->
-![Landing – Assembled](docs/images/landing-top.jpg)
+![Landing – Assembled](docs/images/landing-top.png)
 ![Landing – PCB](docs/images/landing-pcb.png)
 
 ### Ground Control
 <!-- RF 모듈 + USB 연결 예시, GUI 스크린샷(있으면) -->
 <!-- files: docs/images/gcs-top.jpg, gcs-gui.png -->
-![Ground Control – Assembled](docs/images/gcs-top.jpg)
+![Ground Control – Assembled](docs/images/gcs-top.png)
 
 ---
 
