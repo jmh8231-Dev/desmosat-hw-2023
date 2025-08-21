@@ -31,10 +31,10 @@ DesmoSAT은 **모듈 교체만으로 임무를 바꿀 수 있게 설계된 캔�
 |---|---|---|
 | **Common** | 비행 컴퓨터/통신/센서 허브 | STM32F4, CAN(SN65HVD231), RF(433 MHz 1 W), GPS(MAX-M10S), IMU(BNO085/ICM-20602), Baro(LPS22HB), EEPROM |
 | **Battery & BMS** | 전원/충전/안전 관리 | STM32L0, LM2596S 5 V/3.3 V, INA219B(전류), LM324A(셀버퍼), TC427(파워 게이팅), Solar 입력 |
-| **Custom A** | 화산 임무용 가스/분진 센싱 | STM32F 계열, SO₂/CO/CO₂/CH₄/TVOC/PM 센서, CAN, TCXO |
-| **Custom B** | 방사선 임무(확장) | STM32L0, GDK101(방사선), CAN, TCXO |
+| **Custom A** | 화산 임무용 가스/분진 센싱 | STM32F4, SO₂/CO/CO₂/CH₄/TVOC/PM 센서, CAN, TCXO |
+| **Custom B** | 방사선 임무(확장) | STM32F1, GDK101(방사선), CAN, TCXO |
 | **Landing** | 낙하/착지/추적 | STM32L4, VL53L1X(ToF), IR/VL 카메라 I/F, CDS 트래커, 서보/스테퍼, CAN |
-| **Ground Control** | 지상국 수신/표시 | STM32L0, RF(E32-433T30D), FT232RL(USB-UART) |
+| **Ground Control** | 지상국 수신/표시 | STM32F1, RF(E32-433T30D), FT232RL(USB-UART) |
 
 <!-- 블록 다이어그램(상위 시트) 스크린샷 -->
 ![Block Diagram](docs/images/block-diagram.png)
